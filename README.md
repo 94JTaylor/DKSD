@@ -19,7 +19,7 @@ A script cloned off of ESX_Policejob to add a Sheriff's job.
 
 - Add 
 ```
-start DKSP
+start DKSD
 ```
 to your server config file
 
